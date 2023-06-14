@@ -1,0 +1,3 @@
+# ignore unplugin types
+auto-imports-comps.d.ts
+auto-imports-deps.d.ts
